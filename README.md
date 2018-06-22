@@ -8,7 +8,9 @@ You need [Node.js](https://nodejs.org/en/) installed on your system
 
 You could download the boilerplate in your current directory with:
 
-`curl -L https://github.com/guar47/webpack-boilerplate/archive/master.zip && unzip master.zip && rm master.zip && mv -n ./webpack-boilerplate-master/{.,}* ./ && rm -r ./webpack-boilerplate-master`
+```sh
+curl -L https://github.com/guar47/webpack-boilerplate/archive/master.zip && unzip master.zip && rm master.zip && mv -n ./webpack-boilerplate-master/{.,}* ./ && rm -r ./webpack-boilerplate-master
+```
 
 Install dependencies:
 
