@@ -18,7 +18,7 @@ Install dependencies:
 
 ## Usage
 
-Run dev-server for development:
+Run dev-server for development, the server will be available at http://localhost:8080/
 
 `npm start`
 
